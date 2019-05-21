@@ -1,4 +1,7 @@
-This is my first React App.
+## My first React App.
+
+
+
 
 This App is a game where you can only click on any image once and if you click on an image more than once then the game is over. After each click the images shuffle.
 
@@ -9,3 +12,4 @@ Passing functions as props two levels down was one of the tricky parts in coding
 Give it a try below.
 
 https://emanuelpires.github.io/synthyclicky/
+
